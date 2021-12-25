@@ -35,7 +35,7 @@ function SignIn() {
             </div>
             <p className="signin-account">
                 Don't have an account?
-                <a className="login"href="/SignUp"> Signup</a>
+                <a className="login"href="/"> Signup</a>
             </p>
         </div>
          

@@ -56,7 +56,7 @@ function SignUp() {
             </div>
             <p className="sign-account">
                 Already have an account?
-                <a className="login"href="/SignIn"> Login</a>
+                <a className="login" href="/SignIn"> Login</a>
             </p>
             </div>
             </div>
